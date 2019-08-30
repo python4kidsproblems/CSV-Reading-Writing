@@ -1,0 +1,25 @@
+# CSV reading writing problems
+
+# How to use this file:
+#  Copy this to your python (.py) file, and write your code in the given space
+
+################################### Q1 ###################################
+#                            SN | Name    | City                         #
+#                            -------------------------                   #
+#                             1 | Michael | New Jersey                   #
+#                             2 | Jack    | California                   #
+#                             3 | Donald  | Txas                         #
+#                                                                        #
+# Write the data in the above table into a csv file identified by        #
+# file_path.                                                             #
+##########################################################################
+
+# your code goes here
+
+
+################################### Q2 ###################################
+# Now read the csv file you made in Q1 line by line and return the       #
+# contents.                                                              #
+##########################################################################
+
+# your code goes here
